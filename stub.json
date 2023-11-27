@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Write a DAX formula to calculate the year-to-date (YTD) sales for a given year.","md5":"de0d9cc35e5b524fa1077d89ff26d427"}]}
